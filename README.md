@@ -1,4 +1,4 @@
-# fluent interface using JAVA and JS
+# Fluent interfaces using JAVA and JS
 This repository is about a kind of fluent interface where we can make some tasks using a mixing between Java and JS.
 ### Requirements
 
