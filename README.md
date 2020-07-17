@@ -1,5 +1,6 @@
 # Fluent interfaces using JAVA and JS
-This repository is about a kind of fluent interface where we can make some tasks using a mixing between Java and JS.
+This repository is about a kind of fluent interface where we can make some tasks using a mixing between Java and JS.<br>
+We'd mixed up JS with Java using rhino-mozilla library.
 ### Requirements
 
 <p>1 - Java version 8</p>
