@@ -1,6 +1,5 @@
-# jemmic
-Jemmic "Homework" by Alisson Pedrina ( pedrina.alisson@gmail.com )
-
+# fluent interface using JAVA and JS
+This repository is about a kind of fluent interface where we can make some tasks using a mixing between Java and JS.
 ### Requirements
 
 <p>1 - Java version 8</p>
