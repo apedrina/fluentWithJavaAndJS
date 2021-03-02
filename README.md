@@ -6,7 +6,7 @@ We'd mixed up JS with Java using rhino-mozilla library.
 <p>1 - Java version 8</p>
 <p>2 - Maven 3.6.2</p> 
 
-**This application was developed and tested using a Unix-like system.
+**This application was developed and tested using an Unix-like system.
 
 ### Concept
 
